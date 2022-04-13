@@ -3,6 +3,7 @@ Hi ensure that all the files are updated correctly
 <HTML>
 <body>
 <H1> Second file Git Hi world <H1>
+<input type="text" value"enter name" name="fname" id="fname1">
 </body>
 </HTML>
 

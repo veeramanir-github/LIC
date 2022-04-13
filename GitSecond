@@ -1,7 +1,7 @@
 Hi ensure that all the files are updated correctly
 
 <HTML>
-<Head> Second file</head>
+<Head> Second file modified with remote</head>
 <body>
 <H1> Second file Git Hi world <H1>
 <input type="text" id="text1" name="fname"> 
